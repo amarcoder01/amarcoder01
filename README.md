@@ -22,6 +22,10 @@
 
 ## 💫 About Me
 
+I’m Amar Pawar, a passionate BCA student with a forward-thinking mindset and a deep enthusiasm for Artificial Intelligence, Machine Learning, and Prompt Engineering. My journey blends academic excellence with hands-on experience in building real-world applications that make a difference. Whether it's developing AI models to streamline healthcare diagnosis or leveraging GPT-powered systems to simplify legal workflows, I enjoy combining creativity with code to solve meaningful problems.
+
+---
+
 - 🔭 I’m currently working on **AI-driven Legal Document Summarization** and **Multi-Disease Prediction Systems**.
 - 🤝 I’m looking to collaborate on **AI, Machine Learning, Prompt Engineering, and Cloud-based Solutions**.
 - 🙋‍♂️ I’m looking for help with **Open-source DevOps Pipelines and Advanced MLOps practices**.
