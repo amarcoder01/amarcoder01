@@ -108,11 +108,9 @@
 
 ---
 
-## 📈 GitHub Stats & Trophies
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amarcoder01&theme=radical&column=7" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=amarcoder01&show_icons=true&theme=react" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarcoder01&theme=react" width="48%" />
   <br />
