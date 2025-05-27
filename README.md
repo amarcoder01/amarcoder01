@@ -26,16 +26,16 @@ I’m Amar Pawar, a passionate BCA student with a forward-thinking mindset and a
 
 ---
 
-- 🔭 I’m currently working on **AI-driven Legal Document Summarization** and **Multi-Disease Prediction Systems**.
-- 🤝 I’m looking to collaborate on **AI, Machine Learning, Prompt Engineering, and Cloud-based Solutions**.
-- 🙋‍♂️ I’m looking for help with **Open-source DevOps Pipelines and Advanced MLOps practices**.
-- 🧠 I’m currently learning **Kubernetes, Docker Swarm, and Next.js**.
-- 💬 Ask me about **Python, NLP, Cloud Infrastructure, and Prompt Engineering**.
-- 📫 How to reach me: **[amar01pawar80@gmail.com](mailto:amar01pawar80@gmail.com)**
-- 🌐 All of my projects are available at: **[GitHub Profile](https://github.com/amarcoder01)**
-- 📝 I regularly write articles on: **[Medium](https://medium.com/@amarcoder01)** (Coming Soon)
-- 💼 Know about my experiences on: **[LinkedIn](https://www.linkedin.com/in/amar-pawar-prompt-engineering-expert-631146289/)**
-- ⚡ Fun fact: **I'm equally excited by building real-world AI apps and explaining them in simple terms.**
+- 🔭 I’m currently working on cutting-edge **AI projects** including GPT-powered Legal Document Summarization and intelligent **Multi-Disease Prediction Systems** using machine learning.
+- 🤝 I’m looking to collaborate on impactful innovations in **AI, Machine Learning, Prompt Engineering**, and **Cloud-native Application Development**.
+- 🙋‍♂️ I’m looking for help with advancing my skills in **Open-Source DevOps Pipelines**, CI/CD integration, and **Scalable MLOps solutions**.
+- 🧠 I’m currently learning and experimenting with **Kubernetes**, **Docker Swarm**, **Next.js**, and microservice deployment strategies.
+- 💬 Ask me about anything related to **Python, NLP, Prompt Engineering, AI/ML model deployment**, or **cloud infrastructure**.
+- 📫 You can reach me at: **[amar01pawar80@gmail.com](mailto:amar01pawar80@gmail.com)** — I’m always open to new ideas and conversations.
+- 🌐 Explore my work: **[GitHub Profile](https://github.com/amarcoder01)** — real projects solving real problems.
+- 📝 I regularly publish insights and tutorials on: **[Medium](https://medium.com/@amarcoder01)** *(Coming Soon)* to share what I learn with the tech community.
+- 💼 Dive into my experience and certifications on: **[LinkedIn](https://www.linkedin.com/in/amar-pawar-prompt-engineering-expert-631146289/)**
+- ⚡ Fun fact: I enjoy transforming complex AI concepts into simple tools that make life easier — blending creativity, logic, and user-first thinking.**I'm equally excited by building real-world AI apps and explaining them in simple terms.**
 
 ---
 
