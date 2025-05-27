@@ -22,20 +22,23 @@
 
 ## 💫 About Me
 
-I’m Amar Pawar, a passionate BCA student with a forward-thinking mindset and a deep enthusiasm for Artificial Intelligence, Machine Learning, and Prompt Engineering. My journey blends academic excellence with hands-on experience in building real-world applications that make a difference. Whether it's developing AI models to streamline healthcare diagnosis or leveraging GPT-powered systems to simplify legal workflows, I enjoy combining creativity with code to solve meaningful problems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hello+there!+I'm+Amar+Pawar.;A+Coder+who+lives+for+AI+%26+ML.;A+Prompt+Engineering+Ninja.;A+Cloud+Explorer+and+Builder." alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+> 🚀 I am a passionate BCA student who thrives at the intersection of creativity and code. Whether it's building intelligent AI applications, crafting seamless user experiences, or optimizing cloud workflows — I love turning ideas into digital reality.
+
+> 🌟 My journey is fueled by curiosity, driven by impact, and shaped through community contributions. I believe in lifelong learning, open-source collaboration, and solving real-world problems using futuristic tech.
 
 ---
 
-- 🔭 I’m currently working on cutting-edge **AI projects** including GPT-powered Legal Document Summarization and intelligent **Multi-Disease Prediction Systems** using machine learning.
-- 🤝 I’m looking to collaborate on impactful innovations in **AI, Machine Learning, Prompt Engineering**, and **Cloud-native Application Development**.
-- 🙋‍♂️ I’m looking for help with advancing my skills in **Open-Source DevOps Pipelines**, CI/CD integration, and **Scalable MLOps solutions**.
-- 🧠 I’m currently learning and experimenting with **Kubernetes**, **Docker Swarm**, **Next.js**, and microservice deployment strategies.
-- 💬 Ask me about anything related to **Python, NLP, Prompt Engineering, AI/ML model deployment**, or **cloud infrastructure**.
-- 📫 You can reach me at: **[amar01pawar80@gmail.com](mailto:amar01pawar80@gmail.com)** — I’m always open to new ideas and conversations.
-- 🌐 Explore my work: **[GitHub Profile](https://github.com/amarcoder01)** — real projects solving real problems.
-- 📝 I regularly publish insights and tutorials on: **[Medium](https://medium.com/@amarcoder01)** *(Coming Soon)* to share what I learn with the tech community.
-- 💼 Dive into my experience and certifications on: **[LinkedIn](https://www.linkedin.com/in/amar-pawar-prompt-engineering-expert-631146289/)**
-- ⚡ Fun fact: I enjoy transforming complex AI concepts into simple tools that make life easier — blending creativity, logic, and user-first thinking.**I'm equally excited by building real-world AI apps and explaining them in simple terms.**
+- 📫 You can reach me at: **[amar01pawar80@gmail.com](mailto:amar01pawar80@gmail.com)**
+- 🌐 Explore my work: **[GitHub Profile](https://github.com/amarcoder01)**
+- 📝 I regularly publish insights and tutorials on: **[Medium](https://medium.com/@amarcoder01)** *(Coming Soon)*
+- 💼 Dive into my experience on: **[LinkedIn](https://www.linkedin.com/in/amar-pawar-prompt-engineering-expert-631146289/)**
+- ⚡ Fun fact: I enjoy transforming complex AI concepts into simple tools — blending creativity, logic, and user-first thinking.
 
 ---
 
@@ -82,17 +85,6 @@ I’m Amar Pawar, a passionate BCA student with a forward-thinking mindset and a
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker)
 ![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat-square&logo=terraform)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat-square&logo=jenkins)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat-square&logo=scikit-learn)
-![OpenAI GPT](https://img.shields.io/badge/-OpenAI-333?style=flat-square&logo=openai)
-
-### Web & Tools
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat-square&logo=html5)
-![WordPress](https://img.shields.io/badge/-WordPress-333?style=flat-square&logo=wordpress)
-![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat-square&logo=streamlit)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-333?style=flat-square&logo=googlecloud)
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat-square&logo=amazonaws)
 
 ---
 
