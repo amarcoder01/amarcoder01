@@ -3,33 +3,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amar%20Pawar&fontSize=40&fontAlignY=35&desc=AI%20%7C%20Prompt%20Engineer%20%7C%20Cloud%20Explorer&descAlignY=60&animation=fadeIn" />
 </p>
 
-<!-- Social / Contact badges -->
-<p align="center">
-  <a href="mailto:amar01pawar80@gmail.com" title="Send me an Email">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/amarcoder01" title="Visit my GitHub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/amar-pawar-prompt-engineering-expert-631146289/" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="http://amarportfolio.42web.io/?i=1" title="Check out my Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
 <!-- Animated Typing -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Amar+Pawar.;AI+%26+ML+Enthusiast+%F0%9F%A7%96%E2%80%8D%E2%99%82%EF%B8%8F;Prompt+Engineering+Expert+%F0%9F%94%8E;Cloud+Explorer+%E2%9C%A8;Open-Source+Contributor+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://github.com/amarcoder01">
-    <img src="https://img.shields.io/github/followers/amarcoder01?label=Follow&style=social" />
+  <a href="mailto:amar01pawar80@gmail.com" title="Email Amar Pawar">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/amarcoder01" title="GitHub Profile">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/amar-pawar-prompt-engineering-expert-631146289/" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="http://amarportfolio.42web.io/?i=1" title="Portfolio Website">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -37,15 +27,15 @@
 
 ## 💫 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hello+there!+I'm+Amar+Pawar.;A+Coder+who+lives+for+AI+%26+ML.;A+Prompt+Engineering+Ninja.;A+Cloud+Explorer+and+Builder." alt="Typing SVG" />
+Hi, I'm Amar Pawar — a passionate BCA student and AI, Machine Learning, & Cloud Computing enthusiast who thrives at the intersection of creativity and code. I have had the privilege to intern at renowned organizations like **Microsoft**, **SAP**, **Infosys Springboard**, and **YBI**, gaining hands-on experience that has deepened my technical expertise and industry perspective.
+
+Certified in **Google AI** and **Azure AI**, I continuously build on my knowledge to create intelligent AI applications, craft seamless user experiences, and optimize cloud workflows. Whether it's building ML models, exploring large language models, or contributing to open-source projects, I love turning ideas into impactful digital realities.
+
+Fueled by curiosity and driven by impact, I believe in lifelong learning, open-source collaboration, and solving real-world problems using futuristic technologies. My journey is shaped through community, innovation, and a constant desire to grow.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
-
-> 🚀 I am a passionate BCA student who thrives at the intersection of creativity and code. Whether it's building intelligent AI applications, crafting seamless user experiences, or optimizing cloud workflows — I love turning ideas into digital reality.
-
-> 🌟 My journey is fueled by curiosity, driven by impact, and shaped through community contributions. I believe in lifelong learning, open-source collaboration, and solving real-world problems using futuristic tech.
 
 ---
 
@@ -132,12 +122,12 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="mailto:amar01pawar80@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/amar-pawar-prompt-engineering-expert-631146289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/amarcoder01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="http://amarportfolio.42web.io/?i=1"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://leetcode.com/u/Amar_Pawar_Coder/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://stackoverflow.com/users/30644654/amar-pawar"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/></a>
+  <a href="mailto:amar01pawar80@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/amar-pawar-prompt-engineering-expert-631146289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/amarcoder01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="http://amarportfolio.42web.io/?i=1"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Amar_Pawar_Coder/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/30644654/amar-pawar"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
 
 ---
