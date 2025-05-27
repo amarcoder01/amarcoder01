@@ -34,11 +34,22 @@
 
 ---
 
-- 📫 You can reach me at: **[amar01pawar80@gmail.com](mailto:amar01pawar80@gmail.com)**
-- 🌐 Explore my work: **[GitHub Profile](https://github.com/amarcoder01)**
-- 📝 I regularly publish insights and tutorials on: **[Medium](https://medium.com/@amarcoder01)** *(Coming Soon)*
-- 💼 Dive into my experience on: **[LinkedIn](https://www.linkedin.com/in/amar-pawar-prompt-engineering-expert-631146289/)**
+### Contact & More About Me
+
+- 📫 You can reach me at: **[amar01pawar80@gmail.com](mailto:amar01pawar80@gmail.com)**  
+- 🌐 Explore my work: **[GitHub Profile](https://github.com/amarcoder01)**  
+- 📝 I regularly publish insights and tutorials on: **[Medium](https://medium.com/@amarcoder01)** *(Coming Soon)*  
+- 💼 Dive into my experience on: **[LinkedIn](https://www.linkedin.com/in/amar-pawar-prompt-engineering-expert-631146289/)**  
 - ⚡ Fun fact: I enjoy transforming complex AI concepts into simple tools — blending creativity, logic, and user-first thinking.
+
+---
+
+### 👨‍🎓 Currently
+
+- 🎓 I'm a Student and Open Source Contributor!  
+- 🔭 I’m currently working on LLMs and AI.  
+- 🌱 I’m constantly learning new technologies.  
+- 👯 I’m looking to collaborate with open-source enthusiasts and developers.
 
 ---
 
