@@ -88,11 +88,8 @@
 
 ---
 
-## 📈 GitHub Stats & Trophies
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amarcoder01&theme=radical&column=7" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amarcoder01&show_icons=true&theme=react" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarcoder01&theme=react" width="48%" />
@@ -105,14 +102,16 @@
 
 ## 🚀 Highlight Projects
 
-### 🧾 [AI Legal Document Summarization](https://github.com/amarcoder01/Advanced-AI-Driven-Legal-Document-Summarization-and-Risk-Assessment)
-> NLP-powered app using OpenAI GPT to summarize legal contracts and assess risk.
+- 🧾 **[AI Legal Doc Summarization](https://github.com/amarcoder01/Advanced-AI-Driven-Legal-Document-Summarization-and-Risk-Assessment)**  
+  NLP-powered app using OpenAI GPT to summarize legal contracts and assess risk.
 
-### 🧠 [Multiple Disease Prediction System](https://github.com/amarcoder01/multiple-disease-prediction)
-> Predicts Heart Disease, Diabetes, Parkinson’s using ML models. [🔗 Live Demo](https://multiple-disease-prediction-xasrpbvqrsrcb7rou8zr62.streamlit.app/)
+- 🧠 **[Multiple Disease Prediction System](https://github.com/amarcoder01/multiple-disease-prediction)**  
+  Predicts Heart Disease, Diabetes, Parkinson’s using ML models.  
+  🔗 [Live Demo](https://multiple-disease-prediction-xasrpbvqrsrcb7rou8zr62.streamlit.app/)
 
-### 🌐 [Portfolio Website](https://github.com/amarcoder01/advance-portfolio-website-By-Amar-P-No-3)
-> SEO-optimized WordPress portfolio to showcase projects and blog content. [🔗 Visit](http://amarportfolio.42web.io/?i=1)
+- 🌐 **[Portfolio Website](https://github.com/amarcoder01/advance-portfolio-website-By-Amar-P-No-3)**  
+  SEO-optimized WordPress portfolio to showcase projects and blog content.  
+  🔗 [Visit Website](http://amarportfolio.42web.io/?i=1)
 
 ---
 
