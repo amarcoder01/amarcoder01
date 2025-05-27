@@ -1,10 +1,7 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amarcoder01/amarcoder01/main/assets/banner.png" alt="Amar Pawar Banner" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Amar Pawar</h1>
-<h3 align="center">🚀 AI & ML Enthusiast | 🧠 Prompt Engineering Expert | ☁️ Cloud Explorer | 📚 BCA Student</h3>
+<!-- Typing SVG Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amar+Pawar;AI+%26+ML+Enthusiast;Prompt+Engineering+Expert;Cloud+Explorer;BCA+Student" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/amarcoder01">
@@ -25,11 +22,16 @@
 
 ## 💫 About Me
 
-- 🎓 BCA Student at Bharati Vidyapeeth University, Solapur (CGPA: 9.20/10)
-- 🧪 Interned at **Microsoft & SAP (TechSaksham)**, **Infosys**, **YBI Foundation**
-- 🔍 Passionate about AI, Machine Learning, NLP, and Cloud Infrastructure
-- 💡 Building real-world AI apps to solve health and legal challenges
-- 🎯 Currently exploring DevOps tools like Docker, Terraform, and Jenkins
+- 🔭 I’m currently working on **AI-driven Legal Document Summarization** and **Multi-Disease Prediction Systems**.
+- 🤝 I’m looking to collaborate on **AI, Machine Learning, Prompt Engineering, and Cloud-based Solutions**.
+- 🙋‍♂️ I’m looking for help with **Open-source DevOps Pipelines and Advanced MLOps practices**.
+- 🧠 I’m currently learning **Kubernetes, Docker Swarm, and Next.js**.
+- 💬 Ask me about **Python, NLP, Cloud Infrastructure, and Prompt Engineering**.
+- 📫 How to reach me: **[amar01pawar80@gmail.com](mailto:amar01pawar80@gmail.com)**
+- 🌐 All of my projects are available at: **[GitHub Profile](https://github.com/amarcoder01)**
+- 📝 I regularly write articles on: **[Medium](https://medium.com/@amarcoder01)** (Coming Soon)
+- 💼 Know about my experiences on: **[LinkedIn](https://www.linkedin.com/in/amar-pawar-prompt-engineering-expert-631146289/)**
+- ⚡ Fun fact: **I'm equally excited by building real-world AI apps and explaining them in simple terms.**
 
 ---
 
@@ -90,10 +92,9 @@
 - 💻 [LeetCode](https://leetcode.com/u/Amar_Pawar_Coder/)
 - 🧠 [Stack Overflow](https://stackoverflow.com/users/30644654/amar-pawar)
 - ⚙️ [GitHub](https://github.com/amarcoder01)
-- 📧 Email: amar01pawar80@gmail.com
+- 📧 Email: [amar01pawar80@gmail.com](mailto:amar01pawar80@gmail.com)
 
 ---
 
 > _"AI will not replace humans. But humans who use AI will replace those who don’t."_  
 > — Amar Pawar
-
