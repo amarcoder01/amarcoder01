@@ -40,9 +40,44 @@
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=openjdk)
+![C](https://img.shields.io/badge/-C-333?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C%2B%2B-333?style=flat-square&logo=cpp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat-square&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat-square&logo=mysql)
 
 ### AI & ML
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat-square&logo=scikit-learn)
+![Keras](https://img.shields.io/badge/-Keras-333?style=flat-square&logo=keras)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat-square&logo=pytorch)
+![OpenAI GPT](https://img.shields.io/badge/-OpenAI-333?style=flat-square&logo=openai)
+![NLTK](https://img.shields.io/badge/-NLTK-333?style=flat-square&logo=nltk)
+![SpaCy](https://img.shields.io/badge/-SpaCy-333?style=flat-square&logo=spacy)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat-square&logo=numpy)
+
+### Web Development
+![WordPress](https://img.shields.io/badge/-WordPress-333?style=flat-square&logo=wordpress)
+![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat-square&logo=streamlit)
+![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat-square&logo=bootstrap)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat-square&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat-square&logo=jupyter)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333?style=flat-square&logo=eclipseide)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333?style=flat-square&logo=intellijidea)
+
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333?style=flat-square&logo=googlecloud)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker)
+![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat-square&logo=terraform)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat-square&logo=jenkins)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat-square&logo=scikit-learn)
 ![OpenAI GPT](https://img.shields.io/badge/-OpenAI-333?style=flat-square&logo=openai)
