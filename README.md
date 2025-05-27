@@ -1,39 +1,15 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amarcoder01/amarcoder01/main/assets/banner.png" alt="Amar Pawar Banner" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Amar Pawar</h1>
-<h3 align="center">🚀 AI & ML Enthusiast | 🧠 Prompt Engineering Expert | ☁️ Cloud Explorer | 📚 BCA Student</h3>
-
-<p align="center">
-  <a href="https://github.com/amarcoder01">
-    <img src="https://img.shields.io/github/followers/amarcoder01?label=Follow&style=social" />
-  </a>
-  <a href="mailto:amar01pawar80@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/amar-pawar-prompt-engineering-expert-631146289/">
-    <img src="https://img.shields.io/badge/LinkedIn-Amar%20Pawar-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://amarportfolio.42web.io/?i=1">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=vercel" />
-  </a>
-</p>
-
----
-
-## 💫 About Me
-
-- 🎓 BCA Student at Bharati Vidyapeeth University, Solapur (CGPA: 9.20/10)
-- 🧪 Interned at **Microsoft & SAP (TechSaksham)**, **Infosys**, **YBI Foundation**
-- 🔍 Passionate about AI, Machine Learning, NLP, and Cloud Infrastructure
-- 💡 Building real-world AI apps to solve health and legal challenges
-- 🎯 Currently exploring DevOps tools like Docker, Terraform, and Jenkins
-
----
-
-## 🛠️ Skills
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amar+Pawar;AI+%26+ML+Enthusiast;Prompt+Engineering+Expert;Cloud+Explorer;BCA+Student" alt="Typing SVG" />
+</h1>
+- 🔭 I’m currently working on **AI-driven legal document summarization** and **multi-disease prediction systems**.
+- 🤝 I’m looking to collaborate on projects related to **AI**, **Machine Learning**, and **Cloud Computing**.
+- 🧠 I’m currently learning **DevOps tools** like Docker, Terraform, and Jenkins.
+- 💬 Ask me about **AI**, **ML**, **NLP**, and **Cloud Infrastructure**.
+- 📫 How to reach me: [amar01pawar80@gmail.com](mailto:amar01pawar80@gmail.com)
+- 🌐 All of my projects are available at [GitHub](https://github.com/amarcoder01)
+- 📝 I regularly write articles on [Medium](https://medium.com/@amarcoder01)
+- 💼 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/amar-pawar-prompt-engineering-expert-631146289/)
+- ⚡ Fun fact: I love exploring the intersection of technology and real-world problem-solving.
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
@@ -53,10 +29,6 @@
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-333?style=flat-square&logo=googlecloud)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=flat-square&logo=amazonaws)
 
----
-
-## 📈 GitHub Stats & Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amarcoder01&theme=radical&column=7" />
 </p>
@@ -68,32 +40,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarcoder01&layout=compact&theme=react" width="60%" />
 </p>
 
----
-
-## 🚀 Highlight Projects
-
-### 🧾 [AI Legal Document Summarization](https://github.com/amarcoder01/Advanced-AI-Driven-Legal-Document-Summarization-and-Risk-Assessment)
-> NLP-powered app using OpenAI GPT to summarize legal contracts and assess risk.
-
-### 🧠 [Multiple Disease Prediction System](https://github.com/amarcoder01/multiple-disease-prediction)
-> Predicts Heart Disease, Diabetes, Parkinson’s using ML models. [🔗 Live Demo](https://multiple-disease-prediction-xasrpbvqrsrcb7rou8zr62.streamlit.app/)
-
-### 🌐 [Portfolio Website](https://github.com/amarcoder01/advance-portfolio-website-By-Amar-P-No-3)
-> SEO-optimized WordPress portfolio to showcase projects and blog content. [🔗 Visit](http://amarportfolio.42web.io/?i=1)
-
----
-
-## 🌍 Connect With Me
-
 - 🔗 [LinkedIn](https://www.linkedin.com/in/amar-pawar-prompt-engineering-expert-631146289/)
 - 💼 [Portfolio Website](http://amarportfolio.42web.io/?i=1)
 - 💻 [LeetCode](https://leetcode.com/u/Amar_Pawar_Coder/)
 - 🧠 [Stack Overflow](https://stackoverflow.com/users/30644654/amar-pawar)
 - ⚙️ [GitHub](https://github.com/amarcoder01)
-- 📧 Email: amar01pawar80@gmail.com
-
----
-
-> _"AI will not replace humans. But humans who use AI will replace those who don’t."_  
-> — Amar Pawar
-
+- 📧 Email: [amar01pawar80@gmail.com](mailto:amar01pawar80@gmail.com)
