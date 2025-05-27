@@ -53,8 +53,6 @@ Fueled by curiosity and driven by impact, I believe in lifelong learning, open-s
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=openjdk)
-![C](https://img.shields.io/badge/-C-333?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C%2B%2B-333?style=flat-square&logo=cpp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-333?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=flat-square&logo=css3)
@@ -73,8 +71,6 @@ Fueled by curiosity and driven by impact, I believe in lifelong learning, open-s
 ### 🌐 Web Development
 ![WordPress](https://img.shields.io/badge/-WordPress-333?style=flat-square&logo=wordpress)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat-square&logo=streamlit)
-![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat-square&logo=bootstrap)
 
 ### 🧰 Tools & IDEs
 ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
@@ -89,7 +85,6 @@ Fueled by curiosity and driven by impact, I believe in lifelong learning, open-s
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-333?style=flat-square&logo=googlecloud)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker)
 ![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat-square&logo=terraform)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat-square&logo=jenkins)
 
 ---
 
